@@ -16,5 +16,6 @@ https://github.com/ingikim/nanodegree-projects/tree/master/bootstrap-portfolio-m
 
 http://joshmilo.github.io/project1/ - featured img:hover effect
 
-Live site hosted in Github : 
+Live site : http://fedn.herokuapp.com
+
 
